@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dasdeutschekirch01wackuoft_0393.png"; bbox 0 0 2317 3534; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1001 1206 1142 1275">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1001 1206 1142 1275">
+     <span class='ocr_line' id='line_1_1' title="bbox 1001 1206 1142 1275; baseline 0 -13"><span class='ocrx_word' id='word_1_1' title='bbox 1001 1206 1142 1275; x_wconf 68' lang='lat'>3111·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 514 1452 1611 1616">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 514 1452 1611 1616">
+     <span class='ocr_line' id='line_1_2' title="bbox 514 1452 1611 1616; baseline 0.005 -33"><span class='ocrx_word' id='word_1_2' title='bbox 514 1452 1611 1616; x_wconf 51' lang='lat' dir='ltr'>Bibliugrunhin</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 168 3165 635 3201">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 168 3165 635 3201">
+     <span class='ocr_line' id='line_1_3' title="bbox 168 3165 635 3201; baseline -0.004 -8"><span class='ocrx_word' id='word_1_3' title='bbox 168 3165 381 3201; x_wconf 50' lang='lat' dir='ltr'><strong>&#39;Issucfernugell</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 402 3167 560 3199; x_wconf 57' lang='lat' dir='ltr'>airdunIic</span> <span class='ocrx_word' id='word_1_5' title='bbox 566 3167 635 3192; x_wconf 26' lang='lat' dir='ltr'><strong>bbbb</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
